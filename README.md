@@ -1,11 +1,5 @@
-## My Project
-
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+# Tricentis qTest Workshop
+This is the Tricentis qTest AWS workshop, based on the Teachable [qTest Specialist Level 1 course](https://tricentis.teachable.com/p/qtest-specialist-level-1). This is for end of July 2021 delivery.
 
 ## Security
 
