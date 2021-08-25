@@ -29,7 +29,7 @@ The training is based upon our sample Web Shop application: http://demowebshop.t
 
 Tricentis is available in AWS Marketplace. AWS Marketplace is a digital software catalog that makes it easy to find, try, buy, deploy, and manage software that runs on AWS. AWS Marketplace has a broad and deep selection of ISV solutions that can help you build your ideal DevOps toolchain in the cloud.
 
-<a href=" https://aws.amazon.com/marketplace/pp/prodview-ebb4w7ntxyuq4?trk=el_a134p000003yrYeAAI&trkCampaign=AWSMP_pdp_dev_x_dg&sc_channel=el&sc_campaign=el_awsmp_mult&sc_outcome=Marketplace" target="_blank"><img src="/images/Seller badge.png?height=15pc"></a>
+<a href="https://aws.amazon.com/marketplace/pp/prodview-ebb4w7ntxyuq4?trk=el_a134p000003yrYeAAI&trkCampaign=AWSMP_pdp_dev_x_dg&sc_channel=el&sc_campaign=el_awsmp_mult&sc_outcome=Marketplace" target="_blank"><img src="/images/Seller badge.png?height=15pc"></a>
 
 
 
