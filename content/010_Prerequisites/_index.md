@@ -1,10 +1,10 @@
 ---
-title: "Prerequisites"
+title: "Getting Started"
 chapter: true
 weight: 1
 ---
 
-# Prerequisites 
+# Getting Started 
 
 Before getting started, you will need to do a couple of things:
 
